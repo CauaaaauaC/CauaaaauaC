@@ -2,6 +2,7 @@
 
 Meu nome é Cauã
 
+- Estou cursando Bacharelado em Ciência da Computação na USC, em Bauru/SP
 - Estou me desenvolvendo em linguagens de programação
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
