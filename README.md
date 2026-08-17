@@ -9,5 +9,3 @@ Meu nome é Cauã
 ### Você pode entrar em contato comigo 📫
 
 cauagasparoto10@gmail.com
-
-![](https://media.tenor.com/8tgG_KyJqqwAAAAj/happy-happy-happy-happy.gif)
